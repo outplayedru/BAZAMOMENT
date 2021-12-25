@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "2GrMUV4E5Z51ks4Nj+V/bw+gw229QyDGXr0oEEEjvkh9GW3++jygdUk5uozPLR9Bvgp+9LMeqc1cWsdYl7qhpw==",
+  "success": true,
+  "projectFilePath": "D:\\Misc\\uni\\SoundProject\\SoundProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Artur\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Artur\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\Artur\\.nuget\\packages\\microsoft.win32.systemevents\\4.6.0\\microsoft.win32.systemevents.4.6.0.nupkg.sha512",
+    "C:\\Users\\Artur\\.nuget\\packages\\naudio\\2.0.1\\naudio.2.0.1.nupkg.sha512",
+    "C:\\Users\\Artur\\.nuget\\packages\\naudio.asio\\2.0.0\\naudio.asio.2.0.0.nupkg.sha512",
+    "C:\\Users\\Artur\\.nuget\\packages\\naudio.core\\2.0.0\\naudio.core.2.0.0.nupkg.sha512",
+    "C:\\Users\\Artur\\.nuget\\packages\\naudio.midi\\2.0.1\\naudio.midi.2.0.1.nupkg.sha512",
+    "C:\\Users\\Artur\\.nuget\\packages\\naudio.wasapi\\2.0.0\\naudio.wasapi.2.0.0.nupkg.sha512",
+    "C:\\Users\\Artur\\.nuget\\packages\\naudio.winforms\\2.0.1\\naudio.winforms.2.0.1.nupkg.sha512",
+    "C:\\Users\\Artur\\.nuget\\packages\\naudio.winmm\\2.0.1\\naudio.winmm.2.0.1.nupkg.sha512",
+    "C:\\Users\\Artur\\.nuget\\packages\\scottplot\\4.1.27\\scottplot.4.1.27.nupkg.sha512",
+    "C:\\Users\\Artur\\.nuget\\packages\\scottplot.wpf\\4.1.27\\scottplot.wpf.4.1.27.nupkg.sha512",
+    "C:\\Users\\Artur\\.nuget\\packages\\system.drawing.common\\4.6.1\\system.drawing.common.4.6.1.nupkg.sha512",
+    "C:\\Users\\Artur\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\Artur\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
